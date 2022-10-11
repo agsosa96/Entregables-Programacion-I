@@ -1,0 +1,2 @@
+4. Crear un programa que maneje un archivo donde se almacena la siguiente información de una determinada cantidad personas: Nombre, Apellido, Edad y Estatura. El programa deberá almacenar la información a medida que se vayan cargando. El formato a ser almacenado será cada dato separado por el carácter punto y coma (;) en el mismo orden que se carga. Tenga en cuenta que cada vez que se ejecuta el programa, se debe incrementar el contenido del archivo (agregar al final).
+
