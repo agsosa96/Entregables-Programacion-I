@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Gaston",
+        "diaNacimiento": 6,
+        "mesNacimiento": 2,
+        "anioNacimiento": 1996
+    },
+    {
+        "nombre": "Lucas",
+        "diaNacimiento": 11,
+        "mesNacimiento": 5,
+        "anioNacimiento": 1999
+    },
+    {
+        "nombre": "Turco",
+        "diaNacimiento": 20,
+        "mesNacimiento": 3,
+        "anioNacimiento": 1995
+    }
+]
