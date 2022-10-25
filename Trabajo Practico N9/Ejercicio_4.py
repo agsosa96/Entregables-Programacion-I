@@ -7,16 +7,10 @@ def conversorBinario(numero):
     else:
         if(numero %10 == 1):
             print(numero)
-            return conversorBinario(numero //10) + 2 ^ cantidadEnteros(numero)
+            return conversorBinario(numero //10) + 2
         else:
-            return conversorBinario(numero //10)
+            return conversorBinario(numero //10) 
 
-
-def cantidadEnteros(numero1):
-    if(numero1 < 10):
-        return 1
-    else:
-        return cantidadEnteros(numero1 // 10) + 1
     
 #Programa Principal
 valor = int(input("Ingrese el numero en binario: "))

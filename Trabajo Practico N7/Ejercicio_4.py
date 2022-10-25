@@ -44,7 +44,7 @@ except:
     print("No se encuentra el contenido PA")
 
 
-mesAEncontrar = input("Ingrese el mes a encontrar en el direccionario: ")
+mesAEncontrar = int(input("Ingrese el mes a encontrar en el direccionario: "))
 
 for mesAEncontrar in nuevaListaPersonas: 
     print(f'Nombre: {nuevaListaPersonas["nombre"]} Dia de Nacimiento: {nuevaListaPersonas["diaNacimiento"]} Mes de Nacimiento: {nuevaListaPersonas["mesNacimiento"]} Año de Nacimiento: {nuevaListaPersonas["diranioNacimientoeccion"]}')
